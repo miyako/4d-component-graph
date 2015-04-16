@@ -1,0 +1,22 @@
+/*
+	Default HTML = Highcharts 
+ */
+
+"default-html-graph-folder" = "highcharts";
+"default-svg-graph-folder" = "default";
+
+"Highcharts" = "highcharts";
+"Elycharts" = "elycharts";
+"Raphael" = "raphael";
+"Google" = "google";
+"4D" = "default";
+
+"Graph1" = "graph1.xsl";
+"Graph2" = "graph2.xsl";
+"Graph3" = "graph3.xsl";
+"Graph4" = "graph4.xsl";
+"Graph5" = "graph5.xsl";
+"Graph6" = "graph6.xsl";
+"Graph7" = "graph7.xsl";
+"Graph8" = "graph8.xsl";
+"Graph9" = "graph9.xsl";

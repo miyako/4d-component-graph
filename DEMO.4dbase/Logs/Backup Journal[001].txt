@@ -1,0 +1,66 @@
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 6:12
+Ending : 11/10/06 6:12
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 6:38
+Ending : 11/10/06 6:38
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 6:41
+Ending : 11/10/06 6:41
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 7:00
+Ending : 11/10/06 7:00
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 7:14
+Ending : 11/10/06 7:14
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 7:22
+Ending : 11/10/06 7:22
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 7:31
+Ending : 11/10/06 7:31
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 8:32
+Ending : 11/10/06 8:32
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 9:57
+Ending : 11/10/06 9:57
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:DEMO.4dbase:DEMO.journal
+Starting : 11/10/06 12:13
+Ending : 11/10/06 12:13
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:GRAPH.4dbase:GRAPH[0001].4BK
+Scheduled : 11.10.08 04:34:17
+Starting : 11.10.08 04:34:17
+Ending : 11.10.08 04:34:18
+

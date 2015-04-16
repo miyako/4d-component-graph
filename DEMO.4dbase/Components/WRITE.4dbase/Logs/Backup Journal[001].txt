@@ -1,0 +1,37 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:SUMMIT 2011 (for real):v11:SUMMIT 2011.4dbase:Components:WRITE.4dbase:WRITE[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Desktop:SUMMIT 2011 (for real):v11:SUMMIT 2011.4dbase:Components:WRITE.4dbase:WRITE[0000].4BL
+Scheduled : 11.08.15 12:08:43
+Starting : 11.08.15 12:08:43
+Ending : 11.08.15 12:08:44
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:SUMMIT 2011 (for real):v11:SUMMIT 2011.4dbase:Components:WRITE.4dbase:WRITE.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:SUMMIT 2011 (for real):v11:SUMMIT 2011.4dbase:Components:WRITE.4dbase:WRITE.journal
+Starting : 11/08/15 9:49
+Ending : 11/08/15 9:49
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:SUMMIT 2011 (for real):v11:SUMMIT 2011.4dbase:Components:WRITE.4dbase:WRITE[0002].4BK
+Scheduled : 11.08.21 00:00:00
+Starting : 11.08.16 09:31:46
+Ending : 11.08.16 09:31:47
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:SUMMIT 2011 (for real):v11:SUMMIT 2011.4dbase:Components:WRITE.4dbase:WRITE[0003].4BK
+Scheduled : 11.08.21 00:00:00
+Starting : 11.08.24 15:03:37
+Ending : 11.08.24 15:03:37
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:WRITE.4dbase:WRITE[0001].4BK
+Scheduled : 11.08.24 19:43:02
+Starting : 11.08.24 19:43:02
+Ending : 11.08.24 19:43:03
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:SUMMIT 2011 (for real):new:WRITE.4dbase:WRITE[0001].4BK
+Scheduled : 11.08.26 09:01:13
+Starting : 11.08.26 09:01:13
+Ending : 11.08.26 09:01:14
+

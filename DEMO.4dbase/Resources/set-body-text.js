@@ -1,0 +1,1 @@
+$('#page_1_column_1_line_1').text('__text__');
